@@ -73,7 +73,7 @@ questions = {  # dictionary with questions
 
 options = [["1. Felippe", "2. Carlos", "3. Nathan", "4. Michael"],
            ["1. Php", "2. Python", "3. JavaScript", "4. C#"],
-           ["1. Strogonoff", "2. Pizza", "3. Yakisoba", "4. Burrito"],
+           ["1. Stroganoff", "2. Pizza", "3. Yakisoba", "4. Burrito"],
            ["1. Switzerland", "2. Japan", "3. Germany", "4. Canada"]]  # 2d lists with options for each question
 
 new_game()
